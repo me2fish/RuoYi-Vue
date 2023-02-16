@@ -1,0 +1,3 @@
+[submodule "ruoyi-ui-vue3"]
+	path = ruoyi-ui-vue3
+	url = https://github.com/yangzongzhuan/RuoYi-Vue3.git
